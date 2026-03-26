@@ -36,4 +36,4 @@ Este proyecto ha sido desarrollado como parte del ciclo formativo de Desarrollo 
 
 ## Ejecución
 
-No requiere instalación. Solo es necesario abrir el archivo index.html en el navegador o acceder a la versión publicada en GitHub Pages.
+https://jfreitajoa-tech.github.io/Nutria-Nutricionista-Virtual-con-IA/
