@@ -1,0 +1,49 @@
+WEBVTT
+
+00:00:01.720 --> 00:00:05.400
+Hola, mi nombre es Jessica y en este video voy a presentar mi prototipo llamado
+
+00:00:05.400 --> 00:00:11.840
+Nutria. Es una aplicación web de recetas saludables diseñada con HTML y TAILWINDCSS,
+
+00:00:11.840 --> 00:00:17.160
+siguiendo un enfoque responsive. Esta es la pantalla principal. Desde aquí podemos navegar
+
+00:00:17.160 --> 00:00:22.760
+usando botones principales como explorar recetas, que nos lleva a un listado. También tenemos
+
+00:00:22.760 --> 00:00:29.240
+accesos rápidos para movernos entre secciones. En el listado vemos las recetas organizadas en
+
+00:00:29.240 --> 00:00:36.320
+tarjetas. Cada tarjeta incluye una imagen, el nombre del plato y varios iconos de acción.
+
+00:00:36.320 --> 00:00:42.840
+Para ver la información podemos pulsar en el icono ver o directamente entrar en la receta.
+
+00:00:43.840 --> 00:00:48.960
+Aquí estamos en la pantalla detalle. En la pantalla superior vemos la imagen,
+
+00:00:48.960 --> 00:00:55.000
+debajo la información nutricional, más abajo los ingredientes y los pasos de preparación.
+
+00:00:55.000 --> 00:01:03.720
+Para volver usamos el botón volver en la pantalla superior.
+
+00:01:03.720 --> 00:01:11.800
+Si reducimos el tamaño de la pantalla, podemos ver como el diseño se adapta automáticamente a móvil.
+
+00:01:11.800 --> 00:01:21.680
+Las columnas pasan a una sola estructura vertical, manteniendo la claridad y usabilidad.
+
+00:01:21.680 --> 00:01:25.800
+También incluye una página de contacto con un formulario visual.
+
+00:01:25.800 --> 00:01:29.480
+Es una maqueta, por lo que no tiene envío real, pero muestra
+
+00:01:29.480 --> 00:01:34.800
+la estructura completa. En resumen, Nutria es un prototipo centrado en la navegación clara,
+
+00:01:34.800 --> 00:01:39.720
+el diseño responsive y la organización visual de contenido. Gracias por verlo.
